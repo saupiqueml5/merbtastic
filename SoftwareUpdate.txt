@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update pyproject.toml and Docs (#7274)
