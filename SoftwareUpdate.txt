@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+example Google Colab
