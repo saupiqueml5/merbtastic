@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Update Docs Home and Neural Magic pages (#7243)
