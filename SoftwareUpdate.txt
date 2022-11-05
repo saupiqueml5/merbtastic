@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Fix PNNX ubuntu -> linux bug (#7050)
