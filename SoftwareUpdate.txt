@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Resize angle, count, and stage on keypoint number change (#7598)
