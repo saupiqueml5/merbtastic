@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
