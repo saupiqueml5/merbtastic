@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add C++ Classify inference example (#6868)
