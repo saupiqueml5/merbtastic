@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix ONNX GPU inference bug (#6840)
