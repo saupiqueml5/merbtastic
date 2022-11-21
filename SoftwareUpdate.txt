@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
