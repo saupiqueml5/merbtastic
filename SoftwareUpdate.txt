@@ -1,1 +1,1 @@
-example Google Colab
+Replacing Images for torchscript.md (#8596)
