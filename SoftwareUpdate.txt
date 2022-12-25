@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Allow Annotator PIL.Image inputs (#8397)
