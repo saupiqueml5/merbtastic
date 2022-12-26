@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
