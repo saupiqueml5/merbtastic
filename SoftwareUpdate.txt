@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
