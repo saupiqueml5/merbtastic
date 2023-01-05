@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
