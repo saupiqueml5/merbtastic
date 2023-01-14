@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
