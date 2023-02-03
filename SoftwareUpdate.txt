@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
