@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
