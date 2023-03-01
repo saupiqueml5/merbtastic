@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add quantization support to TensorFlow.js converter (#7008)
