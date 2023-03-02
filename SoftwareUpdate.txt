@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
