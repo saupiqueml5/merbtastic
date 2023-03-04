@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Mkdocs annotations fixes (#7600)
