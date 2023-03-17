@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Add visuals in guides/distance-calculation.md (#7876)
