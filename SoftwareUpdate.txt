@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update CITATION.cff with cffinit corrections (#8658)
