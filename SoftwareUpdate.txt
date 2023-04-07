@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix Neural Magic links (#9144)
