@@ -1,1 +1,1 @@
-added badges (#45)
+Add TensorBoard Docs integrations page (#7248)
