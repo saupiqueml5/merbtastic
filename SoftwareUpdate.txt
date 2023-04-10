@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
