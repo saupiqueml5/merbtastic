@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Cleanup Docs languages (#7865)
