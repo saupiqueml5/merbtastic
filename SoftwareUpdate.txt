@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
