@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Fix docker.yaml double-quote version bug (#7452)
