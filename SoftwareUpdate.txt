@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add type hinting to explorer.py (#7388)
