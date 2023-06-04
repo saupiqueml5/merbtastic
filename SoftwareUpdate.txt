@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Hold failed upload metrics and upload with next upload metrics (#8513)
