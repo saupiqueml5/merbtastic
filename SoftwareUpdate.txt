@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+fix yolo classify model loading error (#9196)
