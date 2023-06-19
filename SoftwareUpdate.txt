@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Pass callbacks to validator (#7320)
