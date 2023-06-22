@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
