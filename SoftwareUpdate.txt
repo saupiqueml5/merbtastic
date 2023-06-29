@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
