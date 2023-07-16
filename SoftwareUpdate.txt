@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+fix predict with class filter
