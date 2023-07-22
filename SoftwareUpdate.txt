@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
