@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add ONNX Docs integrations page (#7802)
