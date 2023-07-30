@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+docs: update view-results-in-terminal.md (#66)
