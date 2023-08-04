@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
