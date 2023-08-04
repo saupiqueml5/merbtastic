@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
