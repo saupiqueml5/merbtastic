@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
