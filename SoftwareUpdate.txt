@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
