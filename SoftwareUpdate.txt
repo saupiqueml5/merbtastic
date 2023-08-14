@@ -1,1 +1,1 @@
-Add https://youtu.be/YDXKa1EljmU and https://youtu.be/5BO0Il_YYAg to Docs (#8958)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
