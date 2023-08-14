@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Fix device counting method to account for double-digit device IDs (#8502)
