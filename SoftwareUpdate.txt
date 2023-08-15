@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
