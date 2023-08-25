@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update Colab notebook for YOLOv8.1 (#8660)
