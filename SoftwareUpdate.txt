@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
