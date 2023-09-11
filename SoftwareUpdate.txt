@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Update Docs Home and Neural Magic pages (#7243)
