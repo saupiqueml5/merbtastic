@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
