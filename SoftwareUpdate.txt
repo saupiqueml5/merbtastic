@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add HUB-SDK docs (#7775)
