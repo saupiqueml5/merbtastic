@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Elaborate Train and Predict mode docs arguments (#8137)
