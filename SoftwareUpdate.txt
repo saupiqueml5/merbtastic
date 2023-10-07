@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Expand Model method type hinting (#8279)
