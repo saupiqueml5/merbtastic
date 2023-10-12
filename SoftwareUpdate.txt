@@ -1,1 +1,1 @@
-Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
+Add dota8.yaml and O tests (#7394)
