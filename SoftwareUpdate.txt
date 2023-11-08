@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
