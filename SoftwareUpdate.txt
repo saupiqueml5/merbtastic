@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
