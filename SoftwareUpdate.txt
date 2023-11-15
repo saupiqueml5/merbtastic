@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
