@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
