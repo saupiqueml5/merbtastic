@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update Discord and Contributing Guide URLs (#9270)
