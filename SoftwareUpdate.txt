@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fix docker.yaml double-quote version bug (#7452)
