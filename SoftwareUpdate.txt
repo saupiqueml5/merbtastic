@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix PNNX ubuntu -> linux bug (#7050)
