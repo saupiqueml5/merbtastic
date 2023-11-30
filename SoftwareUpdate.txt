@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
