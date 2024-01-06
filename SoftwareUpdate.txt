@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
