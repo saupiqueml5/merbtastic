@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
