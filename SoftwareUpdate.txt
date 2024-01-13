@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
