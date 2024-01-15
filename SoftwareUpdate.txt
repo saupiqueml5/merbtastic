@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
