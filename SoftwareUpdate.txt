@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add Amazon Sagemaker Docs integrations page (#7293)
