@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add C++ Classify inference example (#6868)
