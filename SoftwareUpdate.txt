@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
