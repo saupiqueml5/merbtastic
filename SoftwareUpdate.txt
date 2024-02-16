@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
