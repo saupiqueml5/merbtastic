@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
