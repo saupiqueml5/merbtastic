@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
