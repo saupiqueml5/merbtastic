@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
