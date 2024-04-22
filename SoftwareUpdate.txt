@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
