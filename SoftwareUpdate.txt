@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix cmake requirements for ARM64 (#8589)
