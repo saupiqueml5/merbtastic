@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
